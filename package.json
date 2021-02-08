@@ -1,0 +1,21 @@
+{
+  "name": "shadowizard",
+  "version": "1.0.0",
+  "description": "a practice npm package, please ignore it and do your things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelFernando209/shadowizars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelFernando209/shadowizars/issues"
+  },
+  "homepage": "https://github.com/JoelFernando209/shadowizars#readme",
+  "dependencies": {}
+}
